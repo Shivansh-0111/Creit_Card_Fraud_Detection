@@ -31,7 +31,7 @@ The dataset contains anonymized credit card transaction records with the followi
 - Scikit-learn  
 - Matplotlib  
 - Seaborn  
-- Jupyter Notebook  
+- Google Collaboratory
 
 ---
 
